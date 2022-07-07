@@ -12,7 +12,7 @@
 <a href="https://t.me/AliAbdulWahid">
   <img align="left" alt="Ajay's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.hackerrank.com/ajaykhalsa_ak">
+<a href="https://www.hackerrank.com/">
   <img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 
