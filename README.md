@@ -1,6 +1,6 @@
 ## Hello Everyone! <img src="https://raw.githubusercontent.com/AliAW79/AliAW79/master/gifs/Hi.gif" width="30px"></h2>
 
-<a href="https://(https://twitter.com/AliAW1G)">
+<a href="(https://twitter.com/AliAW1G)">
   <img align="left" alt="Ajay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="(https://www.linkedin.com/in/ali-abdul-wahid/)/">
@@ -12,7 +12,7 @@
 <a href="https://t.me/AliAbdulWahid">
   <img align="left" alt="Ajay's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.hackerrank.com/">
+<a href="(https://www.hackerrank.com/aliabdul9779)">
   <img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 
